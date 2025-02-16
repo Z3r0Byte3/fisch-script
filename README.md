@@ -69,7 +69,7 @@ With a focus on **security**, **speed**, and **flexibility**, Fisch Script is th
 
 ## 🚀 **How to Install?**
 
-1. Click the **Download** button on the official website.
+1. Click the **Download** button.
 2. Run the installer and follow the on-screen instructions.
 3. Enjoy the power of Fisch Script!
 
